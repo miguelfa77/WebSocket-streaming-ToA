@@ -1,0 +1,8 @@
+message = "{'title': 'Quant (@quant_network)', 'body': 'Here @gverdian tackles an audience question about the technicalities of interoperability. Standards and, in the case of #CBDCs, private permissioned blockchains will be key. \n\n#FTCrypto #CBDC #DigitalPound https://t.co/xnLnnq2Fg3', 'icon': 'https://pbs.twimg.com/profile_images/1400083924626423811/7eFlHj3z.jpg', 'image': 'https://pbs.twimg.com/amplify_video_thumb/1655886376766779392/img/0H1oHzx_NX87Loze.jpg', 'requireInteraction': True, 'type': 'direct', 'link': 'https://twitter.com/quant_network/status/1655887992857272321', 'info': {'twitterId': '790295332966002690', 'isReply': False, 'isRetweet': False, 'isQuote': False}, 'coin': 'QNT', 'actions': [{'action': 'BINFUT_QNTUSDT', 'title': 'QNTUSDT PERP', 'icon': 'https://news.treeofalpha.com/static/images/binance_icon.png'}, {'action': 'BIN_QNT_USDT', 'title': 'QNT/USDT', 'icon': 'https://news.treeofalpha.com/static/images/binance_icon.png'}, {'action': 'BIN_QNT_BTC', 'title': 'QNT/BTC', 'icon': 'https://news.treeofalpha.com/static/images/binance_icon.png'}, {'action': 'BIN_QNT_BUSD', 'title': 'QNT/BUSD', 'icon': 'https://news.treeofalpha.com/static/images/binance_icon.png'}, {'action': 'BIN_QNT_BNB', 'title': 'QNT/BNB', 'icon': 'https://news.treeofalpha.com/static/images/binance_icon.png'}], 'suggestions': [{'found': ['QNT'], 'coin': 'QNT', 'symbols': [{'exchange': 'binance-futures', 'symbol': 'QNTUSDT'}, {'exchange': 'binance', 'symbol': 'QNTUSDT'}, {'exchange': 'binance', 'symbol': 'QNTBTC'}, {'exchange': 'binance', 'symbol': 'QNTBUSD'}, {'exchange': 'binance', 'symbol': 'QNTBNB'}]}], 'time': 1683629438229, '_id': '1683629438229HgtaaqattoiSait'}"
+
+substring = message[267]
+
+print(substring)
+
+print(len(message))
+
